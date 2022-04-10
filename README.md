@@ -9,7 +9,7 @@ Notebook
 -   objective-c
 
 -   swift
-    - [ ]  swift下的链式调用
+    - [x]  [swift下的链式调用](https://github.com/7-Yue/SwiftChain)
 
 ### Other
 
