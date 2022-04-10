@@ -9,7 +9,8 @@ Notebook
 -   objective-c
 
 -   swift
-    - [x]  [链式调用](https://github.com/7-Yue/SwiftChain)
+    
+-   api analyse
     - [x]  [推送](https://github.com/7-Yue/ApplePushLogic)
 
 ### Other
