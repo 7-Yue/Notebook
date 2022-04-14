@@ -11,7 +11,7 @@ Notebook
 -   swift
     
 -   api analyse
-    - [x]  [推送分析](https://github.com/7-Yue/ApplePushLogic)<br>
+    - [x]  [推送分析](./Catalogue/ApplePushLogic/)<br>
     
 -   framework
 
