@@ -9,7 +9,7 @@ Notebook
 -   objective-c
 
 -   swift
-    
+    - [x]  [defer延迟执行逻辑](./Catalogue/SwiftDefer/)<br>
 -   api analyse
     - [x]  [推送分析](./Catalogue/ApplePushLogic/)<br>
     
